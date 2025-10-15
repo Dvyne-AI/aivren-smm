@@ -1,8 +1,0 @@
-# Replace with your real domains when ready
-panel.aivren.in {
-  reverse_proxy frontend:3000
-}
-
-api.aivren.in {
-  reverse_proxy api:4000
-}
